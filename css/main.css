@@ -43,6 +43,10 @@ h3{
 }
 
 /* About */
+ul.features li{
+	background:url(../images/ico-arrow-right.png) no-repeat 0 50%;
+	padding-left: 15px;
+}
 
 /* Pricing Plans */
 .pricing-item h4,
